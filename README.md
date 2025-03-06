@@ -1,3 +1,7 @@
+🔗 GitHub Repo: https://lnkd.in/g-uqczdh
+🌐 Live Preview: https://lnkd.in/gamAAdKX (May not work after a few days)
+
+
 # **Blinkit X Zudio - Fashion in Hours!** 🚀  
 
 ## **Overview**  
@@ -16,3 +20,6 @@ Imagine if **Blinkit** and **Zudio** collaborated—combining Blinkit’s **quic
 
 ## **Note**  
 This is just a **prototype**—no real tracking or order processing is implemented. It’s an exploration of how **quick fashion delivery** could work in the future! 🚀
+
+I used Bolt to generate the code and Netlify to host it.
+
